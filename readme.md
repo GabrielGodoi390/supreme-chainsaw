@@ -3,7 +3,7 @@
 
 ## clone repository
 ```bash
- git clone https://github.com/GabrielGodoi390/version-controll-task
+ git clone https://github.com/GabrielGodoi390/supreme-chainsaw.git
 ```
 
 # understand all git commands :tada:
